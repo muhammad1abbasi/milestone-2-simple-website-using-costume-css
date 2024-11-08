@@ -1,0 +1,12 @@
+.heading {
+    display: flex;
+    justify-content: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+    padding: 77px;      
+}
+
+.para {
+    display: flex;
+    justify-content: center;
+    padding: 77px;
+}
